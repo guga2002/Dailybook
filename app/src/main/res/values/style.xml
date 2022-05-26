@@ -1,0 +1,37 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar"></style>
+
+    <style name="styleforsignin">
+
+        <item name="color">#ffdf</item>
+        <item name="android:textSize">75px</item>
+        <item name="fontFamily">cursive</item>
+        <item name="android:backgroundTint">#CEF49A </item>
+    </style>
+
+    <style name="styleforpass">
+        <item name="color">#ffdf</item>
+        <item name="android:textSize">70px</item>
+        <item name="fontFamily">cursive</item>
+        <item name="android:backgroundTint">#CEF49A</item>
+    </style>
+    <style name="butnstyle">
+        <item name="color">#ffdf</item>
+        <item name="android:width">10px</item>
+        <item name="android:textSize">90px</item>
+        <item name="fontFamily">cursive</item>
+        <item name="android:backgroundTint">#ff5377</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="sylefornotreg">
+        <item name="color">#ffdf</item>
+        <item name="android:textSize">60px</item>
+        <item name="fontFamily">cursive</item>
+        <item name="android:backgroundTint">#CEF49A </item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>
+
+

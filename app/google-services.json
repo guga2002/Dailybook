@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631439010863",
+    "project_id": "dailybook-9eea5",
+    "storage_bucket": "dailybook-9eea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631439010863:android:d0d49da2a59f6ecc322ada",
+        "android_client_info": {
+          "package_name": "ge.proeqti.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631439010863-err2c09ukpiaoo142rf8to9fr914tlec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEpPwdXIiYSjGsdX-5k2A_eh1rZ5KV6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631439010863-err2c09ukpiaoo142rf8to9fr914tlec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
